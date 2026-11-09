@@ -1,0 +1,6 @@
+{
+  "name": "Smith Trust",
+  "description": "Private Family Office & $100M Sovereign Wealth Portal for Anthony Smith with Core Vault, Cash Sweeps, Loan Ledger, Family Cards, Fleet, Houses & LLC Simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
